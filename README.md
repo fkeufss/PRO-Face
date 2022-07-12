@@ -1,1 +1,2 @@
-# PRO-Face
+# PRO-Face: A Generic Framework for Privacy-preserving Recognizable Obfuscation of Face Images (ACM MM 2022 full paper)
+## The source code and pre-trained models are coming soon...
