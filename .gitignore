@@ -1,0 +1,5 @@
+face/checkpoints/*
+FaceShifter/face_modules/model_ir_se50.pth
+FaceShifter/saved_models/G_latest.pth
+SimSwap/arcface_model/arcface_checkpoint.tar
+SimSwap/models/checkpoints/people/*.pth
