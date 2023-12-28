@@ -23,7 +23,7 @@ Then, place the file ``model_ir_se50.pth`` under ``FaceShifter/face_modules/`` a
 
 ### SimSwap models
 To run SimSwap, you need to download its pretrained models from the following link:
-- [BaiduDisk for SimSwap models](https://pan.baidu.com/s/1gKHj_ca8uvFeGhVyDuHyJA) (提取码: ``f2bk``)
+- [BaiduDisk for SimSwap models](https://pan.baidu.com/s/1gKHj_ca8uvFeGhVyDuHyJA) (Password: ``f2bk``)
 - [OneDrive link](https://cqupteducn-my.sharepoint.com/:f:/g/personal/yuanlin_cqupt_edu_cn/Evt4Ks4XOxBMpQJPTHLNx5IBzsXsvPHwIddG13B-pJVGVQ?e=XuQJ2H)
 
 Then, place the file ``arcface_checkpoint.tar`` under ``SwimSwap/arcface_model`` and the three files 
@@ -36,6 +36,9 @@ We rely on the landmark annotations provided by CelebA to perform image crop, in
 The script for cropping the CelebA dataset is provided as ``dataset/align_crop_celeba.py``.
 Besides, we provide the script to create triplet datasets for CelebA: ``dataset/triplet_dataset.py``.
 You may use this script to preprocess any of your dataset.
+
+To assist other researchers, we have made our preprocessed CelebA dataset public. One many obtain the entire datasets (including the train/val/test splits and triplet files) from the following links:
+- [BaiduDisk](https://pan.baidu.com/s/1wMf-iRP5kVfeijvvZYOylQ) (Password: dkhd)
 
 
 # Training
