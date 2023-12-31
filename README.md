@@ -39,6 +39,7 @@ You may use this script to preprocess any of your dataset.
 
 To assist other researchers, we have made our preprocessed CelebA dataset public. One many obtain the entire datasets (including the train/val/test splits and triplet files) from the following links:
 - [BaiduDisk](https://pan.baidu.com/s/1wMf-iRP5kVfeijvvZYOylQ) (Password: dkhd)
+- [OneDrive](https://cqupteducn-my.sharepoint.com/:u:/g/personal/yuanlin_cqupt_edu_cn/EckcBzUQ-f1EgobKZGzJKPUB_g_SOxCXv5bF7e6Kx3O8Yw?e=wInwoU)
 
 
 # Training
